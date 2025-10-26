@@ -1,7 +1,12 @@
+import os
 from fastapi import FastAPI
+from dotenv import load_dotenv
 
-test = FastAPI(title="API Testing")
+load_dotenv()
 
-@test.get("/")
-def greating():
-    return {"message": "Hello World!"}
+app = FastAPI(title=os.getenv("APP_NAME", "MyAPI"))
+
+@app.get("/")
+def root():
+    return {"message": os.getenv("APP_MESSAGE", "Hello from API!")}
+
