@@ -1,0 +1,11 @@
+Player,Age,Pos,Prediction,Probability,Key Metric
+Rahaf,23,GK,Future Star,97.06%,Save%: 82.00%
+Nawaf,24,DF,Future Star,98.65%,DefActions90: 10.21 actions/90
+Razan,23,MF,Not Future Star,0.88%,GA90: 0.39 contrib/90
+Aya,21,FW,Future Star,94.27%,GA90: 0.83 contrib/90
+Sara,25,DF,Future Star,98.62%,DefActions90: 8.84 actions/90
+Sultan,20,MF,Not Future Star,0.73%,GA90: 0.33 contrib/90
+Mohammed,22,FW,Not Future Star,5.22%,GA90: 0.67 contrib/90
+Norah,23,GK,Not Future Star,2.16%,Save%: 75.00%
+Abdullah,24,DF,Future Star,98.84%,DefActions90: 12.09 actions/90
+Rayan,30,MF,Not Future Star,0.64%,GA90: 0.18 contrib/90

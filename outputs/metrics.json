@@ -1,0 +1,21 @@
+{
+  "model": "XGBoost",
+  "threshold": 0.8,
+  "accuracy": 0.9947460595446584,
+  "precision": 0.9826086956521739,
+  "recall": 0.9912280701754386,
+  "f1": 0.9868995633187773,
+  "roc_auc": 0.9999040270259896,
+  "pr_auc": 0.9996188477591935,
+  "confusion_matrix": [
+    [
+      455,
+      2
+    ],
+    [
+      1,
+      113
+    ]
+  ],
+  "classification_report": "              precision    recall  f1-score   support\n\n           0      0.998     0.996     0.997       457\n           1      0.983     0.991     0.987       114\n\n    accuracy                          0.995       571\n   macro avg      0.990     0.993     0.992       571\nweighted avg      0.995     0.995     0.995       571\n"
+}
