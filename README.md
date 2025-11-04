@@ -1,7 +1,7 @@
 # Future Star — Football Talent Prediction
 
 **Future Star** is a data-driven machine learning project that predicts whether a young football player has the potential to become a *Future Star*.  
-Developed during the **Le Wagon Data Science & Machine Learning Bootcamp** in Riyadh, it focuses on supporting **Saudi football academies** and aligns with the country’s **Vision 2030** goals for sports innovation.
+Developed as part of the **Saudi Digital Academy Bootcamp in partnership with Le Wagon.** in Riyadh, it focuses on supporting **Saudi football academies** and aligns with the country’s **Vision 2030** goals for sports innovation.
 
 ---
 
