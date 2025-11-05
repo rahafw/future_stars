@@ -33,7 +33,7 @@ The project’s goal is to help clubs and academies spot hidden talent early and
 2. **Feature Engineering** – deriving advanced metrics that better represent player performance  
 3. **Modeling** – training and optimizing an XGBoost classifier with SMOTE and OneHot Encoding  
 4. **Evaluation** – assessing model accuracy & interpretability  
-5. **Deployment** – secure FastAPI service containerized with Docker and hosted on **Google Cloud Run**
+5. **Deployment** – FastAPI service containerized with Docker and hosted on **Google Cloud Run**
 
 ---
 
